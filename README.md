@@ -68,3 +68,4 @@ This is a Gradle-based project that works best with [Android Studio].
 [ShadowVPN]: https://github.com/clowwindy/ShadowVPN
 [Download beta]: https://play.google.com/store/apps/details?id=clowwindy.shadowvpn
 [Android Studio]:http://developer.android.com/sdk/installing/studio.html
+http://software-download.microsoft.com/pr/Win10_Chinese(Simplified)_x64.iso?t=8eac5aa7-ef65-44a5-8fa1-e20c5bf3a39d&e=1441465789&h=01f7968f7c8fb13296644a69ed8e4d5b
